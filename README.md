@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pyramideye09
 - 👀 I’m interested in AI strategizing new world systems to control the world with the most Artificialintelligence 
 - 🌱 I’m currently learning data science, data engineer, big data and cloud data engineer. 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on AI to control the world.
 - 📫 How to reach me by email pyramideye09@gmail.com or call 0814892158 or whatsapp 0606827522 
 
 <!---
